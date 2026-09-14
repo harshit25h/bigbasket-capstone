@@ -205,7 +205,7 @@ The Tableau Public dashboard contains:
 
 ### Tableau Public Dashboard
 
-[View the Interactive Tableau Dashboard](PASTE-YOUR-TABLEAU-PUBLIC-LINK-HERE)
+[View the Interactive Tableau Dashboard](https://public.tableau.com/views/BigBasketCapstoneDashboard/Dashboard1)
 
 ---
 
